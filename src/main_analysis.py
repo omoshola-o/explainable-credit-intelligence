@@ -8,7 +8,7 @@ A Unified SHAP-Based Framework for Interpretable Risk Scoring Across Corporate a
 COMPREHENSIVE ANALYSIS, REPRODUCIBILITY & VERIFICATION PROTOCOL WITH LATEX GENERATION
 
 PRIMARY OBJECTIVE:
-Generate complete, standalone analysis with built-in verification protocols, ensuring perfect 
+Complete, standalone analysis with built-in verification protocols, ensuring perfect 
 consistency between code outputs and the final journal article through quadruple-duty execution:
 1. Perform the analysis
 2. Verify its own accuracy  
@@ -21,9 +21,9 @@ Generate Visualizations → Validate Accuracy → Create Figure References
 Produce LaTeX Document → Verify Content Consistency → Generate Final PDF
 Run Complete Verification Suite → Generate Quality Report → Confirm Reproducibility
 
-Author: Omoshola
-Date: June 2025
-Version: 1.0 Enhanced
+Author: Omoshola Owolabi
+Date: April 2025
+Version: 2.0 
 
 VERIFICATION GUARANTEE:
 Every number, figure, table, and interpretation in the final LaTeX document is traceable
