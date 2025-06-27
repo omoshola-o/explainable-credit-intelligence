@@ -10,9 +10,9 @@ Performs deep consistency verification across:
 - Mathematical accuracy validation
 - Figure-text alignment verification
 
-Author: Research Team
-Date: June 2025
-Version: 2.0 Enhanced Consistency Framework
+Author: Omoshola Owolabi
+Date: April 2025
+Version: 2.0 
 """
 
 import os
