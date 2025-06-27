@@ -2,8 +2,9 @@
 Individual Visualization Generator for Explainable Credit Intelligence
 Creates separate PNG files for each visualization to be included in LaTeX paper
 
-Author: Research Team
-Date: June 2025
+Author: Omoshola Owolabi
+Date: April 2025
+Version: 2.0 
 """
 
 import numpy as np
