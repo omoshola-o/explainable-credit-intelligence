@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Enhanced Plotting Utilities for Explainable Credit Intelligence
+Plotting Utilities for Explainable Credit Intelligence
 ===============================================================
 
 Professional Publication-Quality Visualization Utilities with Built-in Verification
@@ -8,7 +8,7 @@ Professional Publication-Quality Visualization Utilities with Built-in Verificat
 COMPREHENSIVE PLOTTING UTILITIES WITH VERIFICATION PROTOCOLS
 
 This module provides publication-quality plotting utilities specifically designed for
-the Explainable Credit Intelligence framework, with built-in verification protocols
+The Explainable Credit Intelligence framework, with built-in verification protocols
 ensuring accuracy, consistency, and professional presentation standards.
 
 KEY FEATURES:
@@ -34,12 +34,12 @@ FIGURE CATEGORIES:
 4. Model Performance and Comparison Visualizations
 5. Regulatory Compliance Documentation Visualizations
 
-Author: Research Team
-Date: June 2025
-Version: 2.0 Professional Enhanced
+Author: Omoshola Owolabi
+Date: April 2025
+Version: 2.0 
 
 ACCURACY GUARANTEE:
-All generated figures undergo comprehensive verification ensuring mathematical
+All generated figures undergo comprehensive verification, ensuring mathematical
 accuracy, visual consistency, and perfect alignment with analysis results.
 """
 
