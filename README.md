@@ -159,7 +159,7 @@ python verification_suite.py
 @article{owolabi2025explainable,
   title={Explainable Credit Intelligence: A Unified SHAP-Based Framework for Interpretable Risk Scoring Across Corporate and Retail Lending Domains},
   author={Owolabi, Omoshola S.},
-  journal={Journal of Financial Technology},
+  journal={Journal of Data Analysis and Information Processing},
   year={2025},
   volume={XX},
   number={X},
