@@ -10,9 +10,9 @@ Performs detailed verification of LaTeX document content for:
 - Table accuracy and formatting
 - Mathematical equation consistency
 
-Author: Research Team
-Date: June 2025
-Version: 2.0 Enhanced LaTeX Verification
+Author: Omoshola Owolabi
+Date: April 2025
+Version: 2.0 
 """
 
 import re
