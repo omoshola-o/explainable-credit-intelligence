@@ -3,7 +3,7 @@
 LaTeX Document Generator for Explainable Credit Intelligence
 ===========================================================
 
-Generates a complete LaTeX academic paper that exactly matches the structure and content
+Complete LaTeX academic paper that exactly matches the structure and content
 of 'explainable_credit_intelligence_publication.tex' with integrated verification protocols.
 
 This module implements journal-ready LaTeX generation with:
@@ -12,9 +12,9 @@ This module implements journal-ready LaTeX generation with:
 - Built-in consistency verification
 - Publication-quality formatting
 
-Author: Research Team
-Date: June 2025
-Version: 2.0 Enhanced Professional Framework
+Author: Omoshola Owolabi
+Date: April 2025
+Version: 2.0 
 """
 
 import os
@@ -28,7 +28,7 @@ import pandas as pd
 
 class CreditLaTeXGenerator:
     """
-    LaTeX document generator creating publication-ready academic papers
+    LaTeX document generator for publication-ready academic papers
     that exactly match the structure of explainable_credit_intelligence_publication.tex
     """
     
