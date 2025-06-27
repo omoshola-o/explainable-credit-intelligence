@@ -2,8 +2,9 @@
 Explainable Credit Intelligence: A Unified SHAP-Based Framework for 
 Interpretable Risk Scoring Across Corporate and Retail Lending Domains
 
-Author: Research Team
-Date: June 2025
+Author: Omoshola Owolabi
+Date: April 2025
+Version: 2.0 
 
 This comprehensive analysis implements a novel dual-architecture XAI framework
 combining wavelet transforms for corporate cash flow analysis and Bi-LSTM autoencoders
@@ -56,7 +57,7 @@ class ExplainableCreditIntelligence:
         
     def generate_synthetic_corporate_data(self, n_companies=2000):
         """
-        Generate synthetic corporate lending data with time-series cash flow patterns
+        Generation of synthetic corporate lending data with time-series cash flow patterns
         using advanced financial modeling techniques including wavelet decomposition
         """
         print("Generating synthetic corporate lending data with wavelet-based cash flow analysis...")
