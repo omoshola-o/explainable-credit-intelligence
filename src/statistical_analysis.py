@@ -68,7 +68,7 @@ except ImportError as e:
 
 class CreditStatisticalAnalyzer:
     """
-    Enhanced statistical analyzer with comprehensive verification and LaTeX integration
+    Statistical analyzer with comprehensive verification and LaTeX integration
     
     This class implements professional statistical analysis with quadruple-duty execution:
     1. Advanced model training and performance evaluation with verification
