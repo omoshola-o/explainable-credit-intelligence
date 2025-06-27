@@ -32,9 +32,9 @@ PERFORMANCE TARGETS (from existing LaTeX):
 - CrossSHAP explanation fidelity: 94.2%
 - Regulatory compliance coverage: 93%+
 
-Author: Research Team
-Date: June 2025
-Version: 2.0 Professional Enhanced
+Author: Omoshola
+Date: April 2025
+Version: 2.0 
 
 MATHEMATICAL GUARANTEE:
 All statistical calculations undergo comprehensive verification ensuring mathematical
