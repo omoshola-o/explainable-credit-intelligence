@@ -1,6 +1,6 @@
 """
 Individual Visualization Generator for Explainable Credit Intelligence
-Creates separate PNG files for each visualization to be included in LaTeX paper
+Seperate PNG files for each visualization to be included in LaTeX paper
 
 Author: Omoshola Owolabi
 Date: April 2025
